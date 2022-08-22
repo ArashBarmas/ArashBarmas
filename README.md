@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Quantitative Research
+
+MS in Computational Finance at CMU
+
+BS in Financial Mathematics at UCLA
