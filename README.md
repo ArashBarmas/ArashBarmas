@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Quantitative Research
-
-MS in Computational Finance at CMU
-
-BS in Financial Mathematics at UCLA
